@@ -1,0 +1,18 @@
+Acessar unity hub e baixar o software => Botão adicionar14:03 29/04/2023 e escolher uma versão => Selecionar módulo conforme tipo de plataforma
+Depois na aba instalações é possível ver as versões => aba project => novo projeto => escolher tipo de projeto (2d, 3d) => create
+Unity aberto
+Project = Pastas, assets, objetos 3d -> evitar colocar coisas zipadas
+Hierachy = cenas, como se fosse uma fase -> botão direito -> create empty, pra aparecer na cena precisa ter um objeto transform (ver em inspector)
+ componente = script
+ SpriteRender = exibir objetos 2d
+ pegar asset e largar no sprite render
+2d usar Ortographic no inspector
+Rigibody2d =  aplica fisica
+CircleCollider = colisão
+Se adicionar componente vazio e possivel criar
+metodo Start é como se fosse um construtor
+objeto filho sempre respeita posicao do pai
+criar prefab => selecionar cena e arrastar para project
+criar script PipeSpawn
+arrastar obstaculo para pipe spawn campo pipe
+Hierarchy -> botao direito -> ui -> text smesh
